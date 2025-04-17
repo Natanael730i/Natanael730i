@@ -37,5 +37,5 @@ Atualmente estou buscando oportunidades como freelancer ou dev remoto, e gosto d
 
 ## 📫 Entre em contato
 
-- E-mail: [seuemail@email.com]
-- LinkedIn: [linkedin.com/in/seunome] *(opcional)*
+- E-mail: [natanaelmuller730@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/natanael-lucas-muller-9a9788b9/]
