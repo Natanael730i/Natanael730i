@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/cbb8ac3b-b83c-473a-b0a9-3fdd050c6268)
+
+
 # 👋 Olá! Eu sou o Natanael
 
 Sou desenvolvedor focado em Java, com experiência em criação de APIs REST, segurança básica, integração com bancos de dados e uso de frameworks como Spring e Hibernate. Gosto de transformar conceitos complexos em soluções simples e funcionais.
