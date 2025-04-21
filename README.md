@@ -23,8 +23,7 @@ Atualmente estou buscando oportunidades como freelancer ou dev remoto, e gosto d
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Mercadinho](https://github.com/Natanael730i/Mercadinho) | Simulação de sistema de supermercado com funcionalidades completas | Java, Spring, Hibernate |
-| [Exercicio01](https://github.com/Natanael730i/Exercicio01) | Exercício focado em manipulação de entidades com JPA | Java, JPA |
+| [PersonalFinanceControll](https://github.com/Natanael730i/PersonalFinanceControll) | Simulação de sistema de supermercado com funcionalidades completas | Java, Spring, Hibernate |
 
 > Estou trabalhando para documentar melhor meus projetos e deixá-los prontos para demonstração e uso real.
 
