@@ -23,7 +23,7 @@ Atualmente estou buscando oportunidades como freelancer ou dev remoto, e gosto d
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [PersonalFinanceControll](https://github.com/Natanael730i/PersonalFinanceControll) | API RESTful desenvolvida para controle financeiro pessoal, permitindo o gerenciamento de receitas, despesas, perfis de usuário com diferentes níveis de acesso e autenticação segura com JWT. O projeto está sendo aprimorado com o uso de DTOs, boas práticas de segurança e organização de código. | Java, Spring Boot, Spring Security, Hibernate, JWT, PostgreSQL  |
+| [PersonalFinanceControll](https://github.com/Natanael730i/PersonalFinanceControll) | API RESTful desenvolvida para controle financeiro pessoal, permitindo o gerenciamento de receitas, despesas, perfis de usuário com diferentes níveis de acesso e autenticação segura com JWT. O projeto está sendo aprimorado com o uso de DTOs, boas práticas de segurança e organização de código. | Java, Spring Boot, Spring Security, Hibernate, JWT, PostgreSQL, Flyway  |
 
 > Estou em processo de documentação e melhorias para tornar este projeto pronto para produção e fácil de demonstrar.
 
